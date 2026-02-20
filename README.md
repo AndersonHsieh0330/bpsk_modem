@@ -10,7 +10,7 @@ If you have any questions, please message me on [linkedin](https://www.linkedin.
 # Costas Loop Demodulator Block Diagram
 ![costas_loop_bd](https://github.com/AndersonHsieh0330/bpsk_modem/blob/main/doc/img/costas_loop_cleaned.png?raw=true)
 
-# Demodulator Phase Lock Matlab
+# Demodulator Phase Lock Matlab Modeling
 ![demod_matlab_model](https://github.com/AndersonHsieh0330/bpsk_modem/blob/main/doc/img/bpsk_matlab_wave.png?raw=true)
 
 # Demodulator Phase Lock Simulation

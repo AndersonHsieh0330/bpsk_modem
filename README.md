@@ -6,3 +6,16 @@ The original testing platform was Windows 11, thus the startup scripts were writ
 All valuable content are in `fpga/gui_mode`, ignore `fpga/script_mode` that's the non graphical project flow with Vivado, very outdated. The BPSK Modem verilog code are in `fpga/gui_mode/ip/bpsk`.<br>
 You may also take a look at `Modelling/bpsk/bpsk_modem.m` for a Matlab simulation file.
 If you have any questions, please message me on [linkedin](https://www.linkedin.com/in/anderson-hsieh-6003a41ba) or email andy13579246810@gmail.com
+
+# Costas Loop Demodulator Block Diagram
+![costas_loop_bd](https://github.com/AndersonHsieh0330/bpsk_modem/blob/main/doc/img/costas_loop_cleaned.png?raw=true)
+
+# Demodulator Phase Lock Matlab
+![demod_matlab_model](https://github.com/AndersonHsieh0330/bpsk_modem/blob/main/doc/img/bpsk_matlab_wave.png?raw=true)
+
+# Demodulator Phase Lock Simulation
+![demod_vivado_waveform](https://github.com/AndersonHsieh0330/bpsk_modem/blob/main/doc/img/bpsk_demodulator_wave.png?raw=true)
+
+# Modulator Simulation
+![mod_vivado_waveform](https://github.com/AndersonHsieh0330/bpsk_modem/blob/main/doc/img/bpsk_modulator_wave.png?raw=true)
+
